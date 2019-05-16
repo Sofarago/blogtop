@@ -82,8 +82,36 @@ body {
   background-color:white;
   text-align: center;
   padding-top:100px;
+  font-family: 'Gulim';
 }
 
+.front-bot img {
+  position: absolute;
+  top:10px;
+  left: 250px;
+}
+
+.kiji1 {
+  background-color:#EEEEEE;
+  height:120px;
+  width: 30%;
+  position: relative;
+  left:30px;
+}
+
+.kiji1 h2{
+  color:black;
+  position: absolute;
+  top:0;
+  left: 50px;
+}
+
+.kiji1 p {
+  color:black;
+  position: absolute;
+  top:40px;
+  left: 50px;
+}
 
 footer {
   color:white;
