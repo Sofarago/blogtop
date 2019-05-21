@@ -58,24 +58,6 @@ body {
   margin-top: 17px;
 }
 
-.header-contents {
-  float:right;
-  height:100%;
-  position: absolute;
-  bottom:0;
-  right:40px;
-}
-
-.header-contents li {
-  font-size:18px;
-  list-style: none;
-  color:white;
-  float:left;
-  padding:25px 70px 20px 70px;
-  border-left:2px solid white;
-  margin-top: 10px;
-}
-
 
 .front-top {
   background-image: url("top-background.jpg");
