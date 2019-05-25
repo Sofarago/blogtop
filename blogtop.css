@@ -67,7 +67,7 @@ body {
   background-size: cover;
   padding:50px 0 100px 0 ;
   position:relative;
-  top:00px
+  top:00px;
 }
 
 .top-contents h1 {
@@ -81,38 +81,28 @@ body {
 
 .front-bot {
   height:650px;
-  background-color:white;
+  background-color:#EEEEEE;
+  font-family: 'Economica', sans-serif;
   text-align: center;
-  padding-top:100px;
-  font-family: 'Gulim';
+  overflow: hidden;
 }
 
 .front-bot img {
-  position: absolute;
-  top:10px;
-  left: 250px;
+  height: 90px;
+  width: 100px;
 }
 
-.kiji1 {
-  background-color:#EEEEEE;
-  height:120px;
-  width: 30%;
-  position: relative;
-  left:30px;
+.kiji {
+  background-color:white;
+  width: 20%;
+  margin: 5% 0 0 5%;
+  padding-bottom: 3%;
+  float: left;
 }
 
-.kiji1 h2{
-  color:black;
-  position: absolute;
-  top:0;
-  left: 30px;
-}
-
-.kiji1 p {
-  color:black;
-  position: absolute;
-  top:40px;
-  left: 30px;
+.kiji * {
+  padding-top: 5%;
+  color: black;
 }
 
 footer {
